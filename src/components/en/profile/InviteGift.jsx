@@ -24,7 +24,7 @@ export default function InviteGift() {
             <div className="text-[12px] px-4">
               Send an invitation link to a friend = get{" "}
               <span className="gradient-for-top-users-days text-[14px]">
-                $0.7{" "}
+                $0.4{" "}
               </span>
               instantly! of his earnings.
               <div className="text-[11px]">
@@ -39,7 +39,7 @@ export default function InviteGift() {
             <div className="text-[12px] ">
               Send an invitation link to a friend = get{" "}
               <span className="gradient-for-top-users-days text-[12px]">
-                $0.7{" "}
+                $0.4{" "}
               </span>
               instantly! of his earnings.
               <div className="text-[11px]">
