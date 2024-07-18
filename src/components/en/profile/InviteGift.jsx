@@ -26,7 +26,7 @@ export default function InviteGift() {
               <span className="gradient-for-top-users-days text-[14px]">
                 $0.4{" "}
               </span>
-              instantly! of his earnings.
+              instantly!
               <div className="text-[11px]">
                 Also, you will receive up to{" "}
                 <span className="gradient-for-top-users-days text-[14px]">
@@ -41,7 +41,7 @@ export default function InviteGift() {
               <span className="gradient-for-top-users-days text-[12px]">
                 $0.4{" "}
               </span>
-              instantly! of his earnings.
+              instantly!
               <div className="text-[11px]">
                 Also, you will receive up to{" "}
                 <span className="gradient-for-top-users-days text-[12px]">
