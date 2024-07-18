@@ -19,6 +19,7 @@ export const getToken = async ({ login, password }) => {
       },
     );
     return response.data;
+    // return "test";
   } catch (error) {
     throw new Error(error);
   }
@@ -32,6 +33,7 @@ export const getUserInfo = async (token) => {
       },
     });
     console.log(response.data);
+    // return 1;
     return response.data;
   } catch (error) {
     throw new Error(error);
